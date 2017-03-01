@@ -1,0 +1,23 @@
+{
+  "name": "rp-snapterest",
+  "version": "0.0.1",
+  "description": "",
+  "main": "app/source/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RamiroPinol/snapterest.git"
+  },
+  "author": "RamiroPinol",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-preset-es2015": "^6.22.0",
+    "babel-preset-react": "^6.23.0",
+    "babelify": "^7.3.0",
+    "browserify": "^14.1.0",
+    "gulp": "^3.9.1",
+    "vinyl-source-stream": "^1.1.0"
+  }
+}
